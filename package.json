@@ -1,0 +1,21 @@
+{
+  "name": "graphs-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "chart.js": "^4.3.3",
+    "eslint": "^8.47.0",
+    "eslint-config-next": "^13.4.16",
+    "faker": "^5.5.3",
+    "next": "^13.4.16",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
